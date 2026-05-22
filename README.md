@@ -66,13 +66,13 @@ principle:  keep it simple, observable, and close to the metal
 | [`cachyos-configs`](https://github.com/zudaR107/cachyos-configs) | Portable CachyOS setup for a clean Linux workstation. |
 | [`guides`](https://github.com/zudaR107/guides) | Short technical notes, workflows, and troubleshooting guides. |
 
-<details>
-  <summary><b>GitHub language snapshot</b></summary>
-  <br/>
+### GitHub streak
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zudaR107&layout=compact&hide_border=true&langs_count=8)](https://github.com/zudaR107)
-
-</details>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=zudaR107&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=720" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
