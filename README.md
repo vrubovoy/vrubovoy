@@ -68,5 +68,5 @@ principle:  keep it simple, observable, and close to the metal
 ---
 
 <p align="center">
-  <i>Hardware is the truth. Logs are the witness. Linux is home.</i>
+  <i><b>Hardware is the truth. Logs are the witness. Linux is home.</b></i>
 </p>
