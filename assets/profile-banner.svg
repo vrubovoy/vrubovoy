@@ -64,10 +64,11 @@
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
     <text x="600" y="76" text-anchor="middle" fill="#F8FAFC" font-size="48" font-weight="800">ZudaR</text>
 
-    <text x="66" y="58" fill="#64748B" font-size="14">0x08020000</text>
-    <text x="66" y="362" fill="#64748B" font-size="14">systemctl status life.service</text>
+    <!-- Upper labels moved slightly down to visually match lower-label spacing -->
+    <text x="66" y="68" fill="#64748B" font-size="14">0x08020000</text>
+    <text x="1134" y="68" text-anchor="end" fill="#64748B" font-size="14">docker compose up -d</text>
 
-    <text x="1134" y="58" text-anchor="end" fill="#64748B" font-size="14">docker compose up -d</text>
+    <text x="66" y="362" fill="#64748B" font-size="14">systemctl status life.service</text>
     <text x="1134" y="362" text-anchor="end" fill="#64748B" font-size="14">GPIO CAN HID UART</text>
 
     <text x="600" y="438" text-anchor="middle" fill="#CBD5E1" font-size="22" font-weight="600">embedded developer - web side quests - Linux home lab</text>
