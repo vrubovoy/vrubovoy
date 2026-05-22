@@ -29,15 +29,15 @@
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="33%" valign="top">
       <b>Embedded</b><br/>
       C/C++, MCU firmware, CAN, HID, protocols, diagnostics, desktop tools around real devices.
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <b>Web side projects</b><br/>
       TypeScript, Next.js, PostgreSQL, Docker, CI/CD, small products that are useful in real life.
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <b>Linux & servers</b><br/>
       Arch and CachyOS enjoyer, VPS admin, Caddy, containers, self-hosting, practical automation.
     </td>
