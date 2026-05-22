@@ -1,0 +1,75 @@
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ZudaR profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="460" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="0.42" stop-color="#111827"/>
+      <stop offset="0.74" stop-color="#111229"/>
+      <stop offset="1" stop-color="#071A22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="100" y1="0" x2="1100" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.48" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="430" y1="130" x2="770" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.18 0 0 0 0 0.75 0 0 0 0 1 0 0 0 0.38 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="460" rx="34" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="458" rx="33" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="2"/>
+
+  <g opacity="0.16">
+    <path d="M0 80 H1200M0 160 H1200M0 240 H1200M0 320 H1200M0 400 H1200" stroke="#E5E7EB"/>
+    <path d="M120 0 V460M240 0 V460M360 0 V460M480 0 V460M600 0 V460M720 0 V460M840 0 V460M960 0 V460M1080 0 V460" stroke="#E5E7EB"/>
+  </g>
+
+  <g filter="url(#glow)" opacity="0.8" stroke="url(#accent)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 120 H265 L330 185 H438"/>
+    <path d="M100 300 H262 L330 235 H438"/>
+    <path d="M762 185 H870 L935 120 H1100"/>
+    <path d="M762 235 H870 L935 300 H1100"/>
+    <circle cx="100" cy="120" r="5" fill="#38BDF8"/>
+    <circle cx="100" cy="300" r="5" fill="#38BDF8"/>
+    <circle cx="438" cy="185" r="6" fill="#A78BFA"/>
+    <circle cx="438" cy="235" r="6" fill="#A78BFA"/>
+    <circle cx="762" cy="185" r="6" fill="#A78BFA"/>
+    <circle cx="762" cy="235" r="6" fill="#A78BFA"/>
+    <circle cx="1100" cy="120" r="5" fill="#34D399"/>
+    <circle cx="1100" cy="300" r="5" fill="#34D399"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="430" y="112" width="340" height="196" rx="26" fill="url(#chip)" stroke="#334155" stroke-width="2"/>
+    <rect x="462" y="144" width="276" height="132" rx="16" fill="#020617" stroke="#1E293B"/>
+    <path d="M500 178 H700M500 210 H650M500 242 H720" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" opacity="0.72"/>
+    <circle cx="470" cy="112" r="9" fill="#38BDF8"/>
+    <circle cx="730" cy="112" r="9" fill="#A78BFA"/>
+    <circle cx="470" cy="308" r="9" fill="#A78BFA"/>
+    <circle cx="730" cy="308" r="9" fill="#34D399"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="600" y="76" text-anchor="middle" fill="#F8FAFC" font-size="48" font-weight="800">ZudaR</text>
+
+    <text x="66" y="58" fill="#64748B" font-size="14">0x08020000</text>
+    <text x="66" y="362" fill="#64748B" font-size="14">systemctl status life.service</text>
+
+    <text x="1134" y="58" text-anchor="end" fill="#64748B" font-size="14">docker compose up -d</text>
+    <text x="1134" y="362" text-anchor="end" fill="#64748B" font-size="14">GPIO CAN HID UART</text>
+
+    <text x="600" y="438" text-anchor="middle" fill="#CBD5E1" font-size="22" font-weight="600">embedded developer - web side quests - Linux home lab</text>
+  </g>
+</svg>
