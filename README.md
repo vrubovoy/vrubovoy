@@ -57,15 +57,6 @@ favorite:   Linux-first workflow, terminal, reproducible builds
 principle:  keep it simple, observable, and close to the metal
 ```
 
-### Featured repositories
-
-| Repository | Why it exists |
-| --- | --- |
-| [`wshka`](https://github.com/zudaR107/wshka) | Wishlist app with sharing and reservations. My main public web project. |
-| [`todo-app`](https://github.com/zudaR107/todo-app) | Web app playground for product/UI/backend experiments. |
-| [`cachyos-configs`](https://github.com/zudaR107/cachyos-configs) | Portable CachyOS setup for a clean Linux workstation. |
-| [`guides`](https://github.com/zudaR107/guides) | Short technical notes, workflows, and troubleshooting guides. |
-
 ### GitHub streak
 
 <p align="center">
