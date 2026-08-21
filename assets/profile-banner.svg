@@ -62,7 +62,7 @@
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
-    <text x="600" y="76" text-anchor="middle" fill="#F8FAFC" font-size="48" font-weight="800">ZudaR</text>
+    <text x="600" y="76" text-anchor="middle" fill="#F8FAFC" font-size="48" font-weight="800">Vrubovoy</text>
 
     <!-- Upper labels moved slightly down to visually match lower-label spacing -->
     <text x="66" y="68" fill="#64748B" font-size="14">0x08020000</text>
