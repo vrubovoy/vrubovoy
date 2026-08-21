@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/profile-banner.svg" alt="ZudaR profile banner" width="100%" />
 
-  <h1>Daniil Zudin / ZudaR</h1>
+  <h1>Daniil Zudin / Vrubovoy</h1>
 
   <p>
     <b>Embedded developer at Pandora, Kaluga</b><br/>
