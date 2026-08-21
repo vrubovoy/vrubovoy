@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="ZudaR profile banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Vrubovoy profile banner" width="100%" />
 
   <h1>Daniil Zudin / Vrubovoy</h1>
 
